@@ -1,0 +1,10 @@
+var a
+var a
+print a
+let a = 15
+let b = 4
+printvars
+fn sum = b + a
+print sum
+let b = 6
+print sum

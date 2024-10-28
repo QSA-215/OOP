@@ -1,0 +1,4 @@
+﻿  stringStack.cpp
+D:\1`University\ООП\lw6\stringStack\stringStack\stringStack.cpp(94,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  test.cpp
+  Создание кода...

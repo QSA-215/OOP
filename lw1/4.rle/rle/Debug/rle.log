@@ -1,0 +1,29 @@
+﻿  rle.vcxproj -> G:\ООП\lw1\4.rle\Debug\rle.exe
+  test1 1 pack
+  complete
+  test2 1 unpack
+  complete
+  test3 2 pack
+  complete
+  test4 2 unpack
+  complete
+  test5 wrong mode
+  Wrong program mode.
+  complete
+  test6 - only 2 arguments
+  Wrong program input.
+  complete
+  test7 - wrong input
+  Can`t open input file
+  complete
+  test8 - wrong output
+  Can`t open input file
+  complete
+  test9 - only input
+  Wrong program input.
+  complete
+  test10 - no input
+  Wrong program input.
+  complete
+  All tests completed successfully
+  Для продолжения нажмите любую клавишу . . . 

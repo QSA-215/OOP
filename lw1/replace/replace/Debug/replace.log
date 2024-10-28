@@ -1,0 +1,28 @@
+﻿  replace.cpp
+  replace.vcxproj -> E:\ООП\lw1\replace\Debug\replace.exe
+  test1 - "9" replace by "x"
+  complete
+  test2 - "ma" replace by "mama"
+  complete
+  test3 - "1231234" replace by "xxx"
+  complete
+  test4 - "roma" replace by "natasha"
+  complete
+  test5 - "9" replace by ""
+  complete
+  test6 - only 2 arguments
+  complete
+  test7 - wrong input
+  Can`t open input file
+  complete
+  test8 - wrong output
+  Can`t open output file
+  complete
+  test9 - only input
+  There are no name of input or output file.
+  complete
+  test10 - no input
+  There are no name of input or output file.
+  complete
+  All tests completed successfully
+  Для продолжения нажмите любую клавишу . . . 

@@ -1,0 +1,3 @@
+﻿  primeNumbers.cpp
+G:\ООП\lw2\primeNumbers\primeNumbers\primeNumbers.cpp(28,20): warning C4018: <: несоответствие типов со знаком и без знака
+  primeNumbers.vcxproj -> G:\ООП\lw2\primeNumbers\Debug\primeNumbers.exe

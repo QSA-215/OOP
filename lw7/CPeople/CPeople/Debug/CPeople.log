@@ -1,0 +1,61 @@
+﻿  main.cpp
+D:\1`University\ООП\lw7\CPeople\CPeople\main.cpp(61,26): error C2664: "void std::vector<CPerson,std::allocator<CPerson>>::push_back(const _Ty &)": невозможно преобразовать аргумент 1 из "CPupil" в "const _Ty &"
+          with
+          [
+              _Ty=CPerson
+          ]
+D:\1`University\ООП\lw7\CPeople\CPeople\main.cpp(61,26): message : Причина: невозможно преобразовать "CPupil" в "const _Ty"
+          with
+          [
+              _Ty=CPerson
+          ]
+D:\1`University\ООП\lw7\CPeople\CPeople\main.cpp(61,21): message : Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(742,33): message : см. объявление "std::vector<CPerson,std::allocator<CPerson>>::push_back"
+D:\1`University\ООП\lw7\CPeople\CPeople\main.cpp(62,28): error C2664: "void std::vector<CPerson,std::allocator<CPerson>>::push_back(const _Ty &)": невозможно преобразовать аргумент 1 из "CTeacher" в "const _Ty &"
+          with
+          [
+              _Ty=CPerson
+          ]
+D:\1`University\ООП\lw7\CPeople\CPeople\main.cpp(62,28): message : Причина: невозможно преобразовать "CTeacher" в "const _Ty"
+          with
+          [
+              _Ty=CPerson
+          ]
+D:\1`University\ООП\lw7\CPeople\CPeople\main.cpp(62,21): message : Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(742,33): message : см. объявление "std::vector<CPerson,std::allocator<CPerson>>::push_back"
+D:\1`University\ООП\lw7\CPeople\CPeople\main.cpp(63,27): error C2664: "void std::vector<CPerson,std::allocator<CPerson>>::push_back(const _Ty &)": невозможно преобразовать аргумент 1 из "CWorker" в "const _Ty &"
+          with
+          [
+              _Ty=CPerson
+          ]
+D:\1`University\ООП\lw7\CPeople\CPeople\main.cpp(63,27): message : Причина: невозможно преобразовать "CWorker" в "const _Ty"
+          with
+          [
+              _Ty=CPerson
+          ]
+D:\1`University\ООП\lw7\CPeople\CPeople\main.cpp(63,21): message : Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(742,33): message : см. объявление "std::vector<CPerson,std::allocator<CPerson>>::push_back"
+D:\1`University\ООП\lw7\CPeople\CPeople\main.cpp(64,28): error C2664: "void std::vector<CPerson,std::allocator<CPerson>>::push_back(const _Ty &)": невозможно преобразовать аргумент 1 из "CStudent" в "const _Ty &"
+          with
+          [
+              _Ty=CPerson
+          ]
+D:\1`University\ООП\lw7\CPeople\CPeople\main.cpp(64,28): message : Причина: невозможно преобразовать "CStudent" в "const _Ty"
+          with
+          [
+              _Ty=CPerson
+          ]
+D:\1`University\ООП\lw7\CPeople\CPeople\main.cpp(64,21): message : Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(742,33): message : см. объявление "std::vector<CPerson,std::allocator<CPerson>>::push_back"
+D:\1`University\ООП\lw7\CPeople\CPeople\main.cpp(65,36): error C2664: "void std::vector<CPerson,std::allocator<CPerson>>::push_back(const _Ty &)": невозможно преобразовать аргумент 1 из "CAdvancedStudent" в "const _Ty &"
+          with
+          [
+              _Ty=CPerson
+          ]
+D:\1`University\ООП\lw7\CPeople\CPeople\main.cpp(65,36): message : Причина: невозможно преобразовать "CAdvancedStudent" в "const _Ty"
+          with
+          [
+              _Ty=CPerson
+          ]
+D:\1`University\ООП\lw7\CPeople\CPeople\main.cpp(65,21): message : Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(742,33): message : см. объявление "std::vector<CPerson,std::allocator<CPerson>>::push_back"
