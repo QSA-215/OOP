@@ -1,0 +1,19 @@
+compound
+{
+cone 15 10 5
+cone 15 10 5
+compound
+{
+cone 15 10 5
+cone 15 10 5
+compound
+{
+cone 15 10 5
+cone 15 10 5
+}
+}
+}
+cone 15 10 5
+cylinder 15 10 5
+parallelepiped 15 10 10 10
+sphere 20 5
